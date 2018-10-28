@@ -30,7 +30,7 @@ Het resultaat van je opdracht plaats je uiteraard op GitHub, de link naar de Git
 * Je maakt gebruik van alle kennis die je al hebt
 * Het gebruikte font is Archivo. Dit font is via google beschikbaar https://fonts.google.com/specimen/Archivo. Druk rechts op de rode tekst "select this font" voor instructies, selecteer onder 'customize' alle fonts.
 * Je maakt gebruik van een div om gehele pagina te centreren, deze div is 1000px breed. __LET OP: de twee brede afbeeldingen en de ribbon hebben 100% van de browser breedte en zijn dus altijd breder dan 1000px__
-* __Je mag voor deze opdracht __** GEEN **__ gebruik maken van een negatieve margin / padding  __
+* __Je mag voor deze opdracht__ __** GEEN **__ __gebruik maken van een negatieve margin / padding__
 * De grijze balk van het menu is 950 px breed
 * De font size van de normale teksten is 16 px en de lijn hoogte 24px en een tekst dikte van 500
 * De font size van het menu is 12 px en van het submenu 16 px en een tekst dikte van 500
