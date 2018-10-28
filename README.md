@@ -2,6 +2,8 @@
 
 Het Da Vinci gaat uitbreiden. Vanaf volgende week starten zij met hun 'handige bouwservice'. Daarvoor zouden ze graag een fancy website willen hebben voorzien van de nieuwste technieken, positioneringen en mooie 'hovers'. Ze hebben een webdesigner in de arm genomen en die is met het bijgevoegde ontwerp gekomen. Het is aan jou de taak om dit ontwerp zo goed mogelijk na te bouwen in HTML en CSS.
 
+![Ontwerp](ontwerpen/homepage.png)
+
 Aangezien ze nog niet helemaal weten wat ze allemaal op de website willen hebben, ga je twee pagina's maken: de Homepage en de Diensten pagina. De tekstschrijver heeft de teksten al voor je bijgevoegd in text.txt. Ook is de webdesigner al zo vriendelijk geweest om de kleuren voor je samen te stellen. Deze vind je in colorinformation.txt.
 
 Het resultaat van je opdracht plaats je uiteraard op GitHub, de link naar de GitHub repository lever je in.
